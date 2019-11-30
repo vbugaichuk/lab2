@@ -1,0 +1,10 @@
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\bin\Debug\SpreadSheet.exe.config
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\bin\Debug\SpreadSheet.exe
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\bin\Debug\SpreadSheet.pdb
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SmartTable.csprojAssemblyReference.cache
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SmartTable.FormSmartTable.resources
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.Properties.Resources.resources
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SmartTable.csproj.GenerateResource.cache
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SmartTable.csproj.CoreCompileInputs.cache
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.exe
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.pdb

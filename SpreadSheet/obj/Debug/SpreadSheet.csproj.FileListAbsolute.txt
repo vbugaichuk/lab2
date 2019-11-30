@@ -1,0 +1,22 @@
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\obj\Debug\SpreadSheet.csprojAssemblyReference.cache
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\obj\Debug\SpreadSheet.Form1.resources
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\obj\Debug\SpreadSheet.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\obj\Debug\SpreadSheet.csproj.GenerateResource.cache
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\obj\Debug\SpreadSheet.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\bin\Debug\SpreadSheet.exe.config
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\bin\Debug\SpreadSheet.exe
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\bin\Debug\SpreadSheet.pdb
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\obj\Debug\SpreadSheet.exe
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\obj\Debug\SpreadSheet.pdb
+C:\Users\Alexandr\Desktop\Proga\HW OOP\2 laba\SpreadSheet\SpreadSheet\obj\Debug\SpreadSheet.Form2.resources
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\bin\Debug\SpreadSheet.exe.config
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\bin\Debug\SpreadSheet.exe
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\bin\Debug\SpreadSheet.pdb
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.csprojAssemblyReference.cache
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.Form1.resources
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.Form2.resources
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.Properties.Resources.resources
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.csproj.GenerateResource.cache
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.csproj.CoreCompileInputs.cache
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.exe
+E:\Загрузка\SpreadSheetUnivLabWork-master\SpreadSheetUnivLabWork-master\SpreadSheet\obj\Debug\SpreadSheet.pdb
